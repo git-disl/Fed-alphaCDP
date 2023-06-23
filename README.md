@@ -18,7 +18,49 @@ This is the code for TPDS-2022-09-0583
 Go to gradient_leakage/ folder for gradient leakage attacks on MNIST, Fashion-MNIST, CIFAR10 and LFW (both type 1 leakage and type 2 leakage).
 
 
+If you are interested in our research, please cite:
 
+```
+@inproceedings{wei2020framework,
+  title={A framework for evaluating client privacy leakages in federated learning},
+  author={Wei, Wenqi and Liu, Ling and Loper, Margaret and Chow, Ka-Ho and Gursoy, Mehmet Emre and Truex, Stacey and Wu, Yanzhao},
+  booktitle={European Symposium on Research in Computer Security},
+  year={2020},
+ publisher={Springer}
+}
+
+@inproceedings{wei2021gradient,
+  title={Gradient-Leakage Resilient Federated Learning},
+  author={Wei, Wenqi and Liu, Ling and Wu, Yanzhao and Su, Gong and Iyengar, Arun},
+booktitle={International Conference on Distributed Computing Systems},
+  year={2021},
+ publisher={IEEE}}
+
+
+@ARTICLE{wei2022gradient,
+  author={Wei, Wenqi and Liu, Ling},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Gradient Leakage Attack Resilient Deep Learning}, 
+  year={2022},
+  volume={17},
+  number={},
+  pages={303-316},
+  doi={10.1109/TIFS.2021.3139777}}
+
+
+@ARTICLE{wei2023securing,
+  author={Wei, Wenqi and Liu, Ling and Zhou, Jingya and Chow, Ka-Ho and Wu, Yanzhao},
+  journal={IEEE Transactions on Parallel and Distributed Systems}, 
+  title={Securing Distributed SGD Against Gradient Leakage Threats}, 
+  year={2023},
+  volume={34},
+  number={7},
+  pages={2040-2054},
+  doi={10.1109/TPDS.2023.3273490}}
+
+
+}
+```
 
 
 
