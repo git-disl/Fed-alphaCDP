@@ -1,7 +1,7 @@
 
 ## description
 
-This is the code for TPDS-2022-09-0583
+This is the code for Securing Distributed SGD against Gradient Leakage Threats, which is published at IEEE Transactions on Parallel and Distributed Systems in 2023. 
 
 ## For Gradient leakage resilient federated learning
 
@@ -61,6 +61,7 @@ booktitle={International Conference on Distributed Computing Systems},
 
 }
 ```
+
 
 
 
